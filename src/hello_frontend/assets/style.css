@@ -1,0 +1,9 @@
+.candidate-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.candidate-unit img {
+    width: 200px;
+    height: 300px;
+}
